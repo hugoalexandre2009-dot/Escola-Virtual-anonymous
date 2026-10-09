@@ -1,0 +1,8 @@
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola Virtual-anonymous.csproj.AssemblyReference.cache
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola_Virtual_anonymous.Adminisrador.resources
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola_Virtual_anonymous.Aluno.resources
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola_Virtual_anonymous.Form1.resources
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola_Virtual_anonymous.Professor.resources
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola_Virtual_anonymous.Properties.Resources.resources
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola Virtual-anonymous.csproj.GenerateResource.cache
+C:\Users\I240099\Source\Repos\Escola-Virtual-anonymous\Escola Virtual-anonymous\obj\Debug\Escola Virtual-anonymous.csproj.CoreCompileInputs.cache
