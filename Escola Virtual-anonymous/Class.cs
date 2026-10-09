@@ -13,5 +13,7 @@ namespace Escola_Virtual_anonymous
 
         public List<Student> Students { get; set; } = new List<Student>();
         public List<Subjects> Subjects { get; set; } = new List<Subjects>();
+
+        // Olá
     }
 }
