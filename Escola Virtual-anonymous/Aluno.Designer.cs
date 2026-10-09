@@ -32,12 +32,13 @@
             this.tp_information = new System.Windows.Forms.TabPage();
             this.tp_notes = new System.Windows.Forms.TabPage();
             this.tp_card = new System.Windows.Forms.TabPage();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.btn_Logout = new System.Windows.Forms.Button();
             this.lbl_StudentName = new System.Windows.Forms.Label();
             this.pb_Student = new System.Windows.Forms.PictureBox();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.lbl_class = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.tab_student.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pb_Student)).BeginInit();
             this.SuspendLayout();
@@ -85,6 +86,24 @@
             this.tp_card.Text = "Cartão";
             this.tp_card.UseVisualStyleBackColor = true;
             // 
+            // tabPage4
+            // 
+            this.tabPage4.Location = new System.Drawing.Point(4, 25);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Size = new System.Drawing.Size(788, 341);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "tabPage4";
+            this.tabPage4.UseVisualStyleBackColor = true;
+            // 
+            // tabPage5
+            // 
+            this.tabPage5.Location = new System.Drawing.Point(4, 25);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Size = new System.Drawing.Size(788, 341);
+            this.tabPage5.TabIndex = 4;
+            this.tabPage5.Text = "tabPage5";
+            this.tabPage5.UseVisualStyleBackColor = true;
+            // 
             // btn_Logout
             // 
             this.btn_Logout.Location = new System.Drawing.Point(670, 1);
@@ -114,24 +133,6 @@
             this.pb_Student.TabIndex = 15;
             this.pb_Student.TabStop = false;
             // 
-            // tabPage4
-            // 
-            this.tabPage4.Location = new System.Drawing.Point(4, 25);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(788, 341);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "tabPage4";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tabPage5
-            // 
-            this.tabPage5.Location = new System.Drawing.Point(4, 25);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(788, 341);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "tabPage5";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
             // lbl_class
             // 
             this.lbl_class.AutoSize = true;
@@ -141,11 +142,21 @@
             this.lbl_class.TabIndex = 19;
             this.lbl_class.Text = "Turma";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(377, 217);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(46, 16);
+            this.label1.TabIndex = 20;
+            this.label1.Text = "Turma";
+            // 
             // Aluno
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lbl_class);
             this.Controls.Add(this.tab_student);
             this.Controls.Add(this.btn_Logout);
@@ -174,5 +185,6 @@
         private System.Windows.Forms.TabPage tabPage4;
         private System.Windows.Forms.TabPage tabPage5;
         private System.Windows.Forms.Label lbl_class;
+        private System.Windows.Forms.Label label1;
     }
 }
